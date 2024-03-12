@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 
 import javafx.fxml.Initializable;
 
-public class ViewController implements Initializable {
+public class MainViewController implements Initializable {
 
 	
 	@Override
